@@ -23,5 +23,4 @@ This Repo contains all the JavaScript problem statements(jsproblemStatements.js)
 > ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
-* [Github](https://github.com/ShubhamSingh03)
 * [Findcoder](https://www.findcoder.io/u/shubham_singh)
