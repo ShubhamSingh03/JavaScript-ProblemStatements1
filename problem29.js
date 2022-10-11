@@ -1,0 +1,17 @@
+// 29. Use for loop to iterate from 0 to 100 and print the sum of all evens and the sum of all odds.
+
+const sum = () => {
+    let evenSum = 0;
+    let oddSum = 0;
+
+    for (let i = 0; i <= 100; i++) {
+        if (i % 2 === 0) {
+            evenSum += i;
+        } else {
+            oddSum += i;
+        }
+    }
+    return `Sum of even numbers: ${evenSum} & Sum of odd numbers: ${oddSum}`;
+};
+
+console.log(sum());
